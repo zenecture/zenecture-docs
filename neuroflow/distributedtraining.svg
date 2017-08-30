@@ -68,10 +68,10 @@
       <path d="M 122.54 220.473 L 142.932 220.467" style="fill: none; stroke: black;"/>
     </g>
     <text style="font-family: &quot;Open Sans&quot;; font-size: 9px; font-weight: bold; text-transform: capitalize; white-space: pre;" y="270.12" x="352.844">Coordinator</text>
-    <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;" transform="matrix(1, 0, 0, 1, 15, -8)"><textPath xlink:href="#text-path-1">Error, Derivatives</textPath></text>
-    <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;" transform="matrix(1, 0, 0, 1, 31, -4)"><textPath xlink:href="#path-1">Weights</textPath></text>
-    <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;" transform="matrix(1, 0, 0, 1, 23.000004, 59)"><textPath xlink:href="#path-2">Weights</textPath></text>
-    <text style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;"><textPath xlink:href="#text-path-2">Error, Derivatives</textPath></text>
+    <text transform="matrix(1, 0, 0, 1, 15, -8)" style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;"><textPath xlink:href="#text-path-1">Error, Derivatives</textPath></text>
+    <text transform="matrix(1, 0, 0, 1, 31, -4)" style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;"><textPath xlink:href="#path-1">Weights</textPath></text>
+    <text transform="matrix(1, 0, 0, 1, 23.000004, 59)" style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;"><textPath xlink:href="#path-2">Weights</textPath></text>
+    <text style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;"><textPath xlink:href="#text-path-2">Error, Derivatives</textPath></text>
   </g>
   <g transform="matrix(1, 0, 0, 1, -26, 20)">
     <line style="stroke: rgb(0, 0, 0);" x1="213.607" y1="266.351" x2="312.476" y2="216.691"/>
@@ -95,9 +95,9 @@
       <line style="stroke: rgb(0, 0, 0); fill: rgb(91, 91, 91);" x1="212.927" y1="266.574" x2="216.44" y2="263.006"/>
     </g>
   </g>
-  <text x="80.954" y="377.142" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Defines Network Architecture</text>
-  <text x="80.954" y="393.142" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Reduces partial results to one</text>
-  <text x="80.954" y="385.142" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Main training loop</text>
-  <text x="411.431" y="237.18" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Local Data Source</text>
-  <text x="413.431" y="387.18" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Local Data Source</text>
+  <text x="80.954" y="377.142" style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Defines Network Architecture</text>
+  <text x="80.954" y="393.142" style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Reduces partial derivatives to one</text>
+  <text x="80.954" y="385.142" style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Main training loop</text>
+  <text x="411.431" y="237.18" style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Local Data Source</text>
+  <text x="413.431" y="387.18" style="font-family: &quot;Open Sans&quot;; font-size: 5px; white-space: pre;">- Local Data Source</text>
 </svg>
