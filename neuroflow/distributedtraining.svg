@@ -31,8 +31,8 @@
     <ellipse transform="matrix(1.000001, 0, 0, 1, -155.261171, 10.347672)" cx="309.779" cy="209.527" rx="11.028" ry="11.028" style="fill: rgb(173, 220, 166);"/>
     <path d="M 122.54 220.473 L 142.932 220.467" style="fill: none; stroke: black;"/>
   </g>
-  <text x="327.844" y="290.12" style="font-family: &quot;Open Sans&quot;; font-size: 9px; font-weight: bold; text-transform: capitalize; white-space: pre;">Executor 1</text>
-  <g transform="matrix(1, 0, 0, 1, -21, 26)">
+  <text x="327.844" y="285.12" style="font-family: &quot;Open Sans&quot;; font-size: 9px; font-weight: bold; text-transform: capitalize; white-space: pre;"><tspan>Executor </tspan><tspan style="text-transform: none;">1</tspan></text>
+  <g transform="matrix(1, 0, 0, 1, -21, 24)">
     <ellipse transform="matrix(-0.832057, 0.554684, -0.554696, -0.832044, 779.848386, 235.069362)" cx="367.884" cy="182.942" rx="2.407" ry="2.407" style="fill: rgb(119, 119, 119);"/>
     <ellipse transform="matrix(-0.83207, 0.554696, -0.55468, -0.832077, 779.850765, 243.067256)" cx="367.886" cy="182.94" rx="2.407" ry="2.407" style="fill: rgb(119, 119, 119);"/>
     <ellipse transform="matrix(-0.832074, 0.554669, -0.554646, -0.83207, 779.861181, 251.060444)" cx="367.907" cy="182.937" rx="2.407" ry="2.407" style="fill: rgb(119, 119, 119);"/>
